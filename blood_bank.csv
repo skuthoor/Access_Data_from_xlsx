@@ -1,0 +1,204 @@
+ID,name,address,district,govt_pvt,cateogry
+1,K.V.M.Hospital,"Chertala, Alappuzha, Kerala 688524",Alappuzha,Private,BB
+2,Century Hospital,"Mulakuzha, Chenganoor, Alappuzha, Kerala 689505",Alappuzha,Private,BCSU
+3,Sacred Heart Hospital,"Green Gardens, Mathilakom, Cherthala, Alappuzha, Kerala 688524",Alappuzha,Private,BB
+4,V S M Hospital,"Thattarambalam, Mavelikkara, Alappuzha, Kerala 690103",Alappuzha,Private,BB
+5,Sanjivani Multispeciality  Hospital,"Alacode, Kollakadavu P O, Cheriyanad , Chengannur, Alappuzha, Kerala
+690509",Alappuzha,Private,BCSU
+6,Medical College Hospital,"Vandanam, Alappuzha, Kerala 688005",Alappuzha,Government,BCSU
+7,Women & Children Hospital,"Beach Bazar.P.O, Alappuzha, Kerala 688012",Alappuzha,Government,BB
+8,"General Hospital, Alappuzha","General Hospital Rd, Anantha Narayanapuram, Alappuzha, Kerala 688011",Alappuzha,Government,"UpComming
+BCSU"
+9,Carmel Hospital,"Ashokapuram,  Aluva, Ernakulam, Kerala 683101",Ernakulam,Private,BB
+10,Little Flower Hospital,"M.C.Road, Angamaly, Ernakulam, Kerala 683572",Ernakulam,Private,BCSU
+11,Aster Medicity,"Kuttysahib Road,  South Chittoor P.O., Cheranelloor, Ernakulam Kerala
+682027",Ernakulam,Private,BCSU
+12,Amritha Institute of Medical Sciences & Research Centre,"Ponekkara P. O, Ernakulam, Kerala 682041",Ernakulam,Private,BCSU
+13,INHS Sanjivani,"Naval Base Parade Ground, Willingdon Island, Ernakulam, Kerala 682003",Ernakulam,Defence,BB
+14,Lisie Hospital,"Kathrikadavu, Kaloor, Ernakulam, Kerala 682017",Ernakulam,Private,BCSU
+15,Malankara Orthodox Syrian Church Medical College Hospital,"Kolencherry, Ernakulam, Kerala 680311",Ernakulam,Private,BCSU
+16,Medical Trust Hospital,"M.G. Road, Ernakulam, Kerala 682016",Ernakulam,Private,BCSU
+17,Samaritan Hospital,"Pazhanganad, Kizhakambalam,  Ernakulam, Kerala 680562",Ernakulam,Private,BB
+18,Sunrise Institute of Medical Sciences (P) Ltd.,"Seaport - Airport Road, Kakkanad, Ernakulam, Kerala 682 030",Ernakulam,Private,BCSU
+19,Devamatha Hospital,"Koothattukulam, Ernakulam, Kerala 686662",Ernakulam,Private,BB
+20,Mar Baselius Medical Mission Hospital,"NH49, Near Post office, Kothamangalam  P.O., Ernakulam Kerala 686691",Ernakulam,Private,BB
+21,St Joseph Hospital,"Dharmagiri, Kothamangalam, Ernakulam, Kerala 686691",Ernakulam,Private,BB
+22,Lakeshore Hospital & Research Centre Ltd,"NH-47 Bypass, Maradu, Nettoor P.O, Ernakulam Kerala 682040",Ernakulam,Private,BCSU
+23,Nirmala Medical Center,"Kizhakkekara, Moovattupuzha,  Ernakulam, Kerala 686661",Ernakulam,Private,BB
+24,Sree Narayana Institute of Medical Sciences,"Chalakka, North Kuthyathode, Ernakulam, Kerala 683594",Ernakulam,Private,BCSU
+25,Sanjoe Hospital,"A.M.Road, Perumbavoor, Ernakulam, Kerala 680541",Ernakulam,Private,BB
+26,Rajagiri Hospital,"Changamveli, Aluva, Ernakulam Kerala 683112",Ernakulam,Private,BCSU
+27,Govt. Medical College Hospital,"HMT Colony P.O., Kalamassery, Ernakulam, Kerala 683503",Ernakulam,Government,BCSU
+28,General Hospital,"Ernakulam, Kerala 682011",Ernakulam,Government,BCSU
+29,IMA Voluntary Donor Blood Bank,"T.D Road, Ernakulam, Kerala 682011",Ernakulam,Private,BCSU
+30,Lourds Hospital,"Pachalam, Ernakulam, Kerala 682012",Ernakulam,Private,BCSU
+31,District Hospital,"Aluva, Ernakulam, Kerala 683101",Ernakulam,Government,BCSU
+32,Polakulath Narayanan Renai Medicity,"Palarivattom P.O, Ernakulam, Kerala  682025",Ernakulam,Private,BCSU
+33,MAGJ Hospital,"Mookkannoor P.O., Angamaly, Ernakulam, Kerala 683 577",Ernakulam,Private,BB
+34,Adlux Medicity and Convention Centre Pvt Ltd.,"Cable Junction, Karukutty PO, Angamaly, Ernakulam 683576",Ernakulam,Private,BCSU
+35,Morning Star Medical Centre,"Nazareth Hill, Adimali, Idukki, Kerala 685561",Idukki,Private,BB
+36,St Johns Hospital,"Kattappana South P.O, Idukki Kerala 685515",Idukki,Private,BCSU
+37,"M.M.T.Hospital,  (Mundakkayam  Medical Trust Hospital)","Mundakayam East P.O, Idukki, Kerala 686513",Idukki,Private,BB
+38,"Tata Tea Limited, General Hospital","Nullatanni, Munnar, Idukki, Kerala 685612",Idukki,Private,BB
+39,Alphonsa Hospital,"SH 19 Bypass, Kalladathur, Anakkara, Murikkassery, Idukki Kerala 685512",Idukki,Private,BB
+40,Holy Family Hospital,"Muthalakodam,  Thodupuzha, Idukki, Kerala 686505",Idukki,Private,BB
+41,"Al-Azhar Medical College & Super Speciality Hospital,","Ezhalloor P O, Kumaramangalam, Thodupuzha, Idukki, Kerala 685605",Idukki,Private,BCSU
+42,Govt. Medical College Hospital (District Hospital),"Painavu, Idukki, Kerala 685603",Idukki,Government,BCSU
+43,IMA Blood Bank Society,"Thodupuzha, Idukki, Kerala 685584",Idukki,Private,BCSU
+44,Chazhikattu Hospital (P) Ltd,"Thodupuzha, Idukki, Kerala 685584",Idukki,Private,BCSU
+45,Kannur Medical College and Hospital (Prestige edu Trust),"Chovva Mathanur Road, Anjarakandy P.O., Kannur, Kerala 670612",Kannur,Private,BCSU
+46,St.Martin De Porres Hospital,"Cherukunnu PO, Kannur, Kerala 670301",Kannur,Private,BB
+47,Cannanore Co-Op Hospital Society,"Kasaragod - Kannur Road, Talap, Talap, Kannur, Kerala 670002",Kannur,Co-operative,BCSU
+48,Sara Memorial Medical Laboratory and Blood Bank,"Brigade Centre , Fort Road, Kannur Kerala 670001",Kannur,Private,BCSU
+49,The Payyannur Co-operative Hospital Society Ltd.,"South Bazar, Payyanur, Kannur, Kerala 670503",Kannur,Co-operative,BB
+50,Tellichery Co-Operative Hospital,"Thalaseery, Kannur, Kerala 670101",Kannur,Co-operative,BB
+51,Josgiri Hospital,"Thalaseery, Kannur, Kerala 670101",Kannur,Private,BB
+52,"Govt Medical College Hospital, Pariyaram,  Kannur
+(Kerala State Co-operative Hospital Complex & Centre for advanced Medical
+Services Ltd.)
+(Academy of Medical Science)","Pariyaram, Kannur, Kerala 670503",Kannur,Government,BCSU
+53,District Hospital,"Kannur, Kerala 670017",Kannur,Government,BCSU
+54,"General Hospital, Thalassery","Thalassery, Kannur, Kerala 670101",Kannur,Government,BCSU
+55,Malabar Cancer Centre,"Moozhikkara P.O., Thalassery, Kannur, Kerala 670003",Kannur,Government,BCSU
+56,"Aster MIMS,Chala (East),Kannur","Blood Bank,Aster MIMS,Chala (East),Kannur (Dist),670621",Kannur,Private,BCSU
+57,"CO OPERATIVE HOSPITAL SOCIETY LTD, TALIPARAMBA,KANNUR","CO OPERATIVE HOSPITAL SOCIETY LTD; NO.C-1468
+,TALIPARAMBA,SECOND FLOOR,TALIPARAMBA,KANNUR",Kannur,Private,BB
+58,"District Hospital, Kanhangad","Kanhangad, Kasaragod, Kerala 671315",Kasargod,Government,BCSU
+59,General Hospital,"Kasaragod, Kerala 671121",Kasargod,Government,"Upgrading as
+BCSU"
+60,S.N.Trust Medical Mission Sankars Hospital,"Q.S. Road, Kollam, Kerala 691001",Kollam,Private,BB
+61,Upasana Hospital,"Q.S. Road, N.H. 208, Kollam, Kerala 691001",Kollam,Private,BB
+62,Padmavathy Medical Foundation,"Sasthamkotta Road, Manakkara, Kollam, Kerala 690521",Kollam,Private,BCSU
+63,Azeezia Medical College,"Diamond Hill, Meeyanoor P.O., Kollam, Kerala 691537",Kollam,Private,BCSU
+64,"Travancore Medical College Hospital, Medicity","N.H. Bypass road, Umayanalloor,  Kollam, Kerala 691589",Kollam,Private,BCSU
+65,Medical College Hospital,"Parippally, Kollam 691574",Kollam,Government,BCSU
+66,Bishop Benziger Hospital,"Beach Road, Kollam, Kerala 691001",Kollam,Private,BB
+67,District Hospital,"Chinnakada, Kollam, Kerala 691001",Kollam,Government,BCSU
+68,Holy Cross Hospital,"Kottiyam, Kollam, Kerala 691571",Kollam,Private,BCSU
+69,IMA Blood Bank,"Ist Floor, IMA Centre, Ashramam, Kollam, Kerala 691002",Kollam,Private,BCSU
+70,St. Joseph Hospital,"Anchal.P.O, Kollam, Kerala 691306",Kollam,Private,BB
+71,Taluk Head Quarters Hospital,"Kollam - Chenkotta Road, Kottarakara, Kollam, Kerala 691506",Kollam,Government,BB
+72,Taluk Head Quarters Hospital,"Panamkuttymala, Punalur, Kollam, Kerala 691305",Kollam,Government,BCSU
+73,Meditrina Hospital,"Kollam - Ayoor Road, Ayathil, Kollam, Kerala 691021",Kollam,Private,BCSU
+74,Mary Queens Mission Hospital,"Palampra P.O., Kanjirapally, Kottayam, Kerala 686 518",Kottayam,Private,BB
+75,Little Lourde Mission Hospital,"Kidagoor, Kottayam, Kerala 686752",Kottayam,Private,BB
+76,St Thomas Hospital,"Kurisummoodu  P.O., Chettipuzha, Changanacherry, Kottayam, Kerala
+686104",Kottayam,Private,BB
+77,MUM Hospital,"Monippally P.O., Kottayam, Kerala 686636",Kottayam,Private,BB
+78,Holy Ghost Mission Hospital,"Muttuchira, Kottayam, Kerala 686613",Kottayam,Private,BB
+79,S.H. Medical Centre,"Nagampadam,  Kottayam, Kerala 686001",Kottayam,Private,BCSU
+80,Carmel Medical Centre,"Kizhathadiyoor  PO, Pala, Kottayam, Kerala 686574",Kottayam,Private,BB
+81,Marian Medical Centre,"Arunapuram P.O., Pala, Kottayam, Kerala 686574",Kottayam,Private,BCSU
+82,Velankanni Matha Hospital Pvt. Ltd.,"MC Road, Thellakom, Kottayam, Kerala 686630",Kottayam,Private,BCSU
+83,Caritas Hospital,"M.C. Road, Thellakom, Kottayam, Kerala 686630",Kottayam,Private,BCSU
+84,Indo American Hospital,"Chemmanakary,  Akkarappadam  P.O, Vaikom, Kottayam, Kerala 686143",Kottayam,Private,BB
+85,Bharath Charitable Hospital Society,"Azad Lane, Kottayam, Kerala 686001",Kottayam,Private,BCSU
+86,District Hospital,"Kottayam-Kumily Rd, Kottayam, Kerala 686001",Kottayam,Government,"Upgrading as
+BCSU"
+87,I.H.M. HOSPITAL,"Bharananganam, Pala, Kottayam, Kerala 686578",Kottayam,Private,BB
+88,Medical College Hospital,"Gandhi Nagar, Kottayam, Kerala 686008",Kottayam,Government,BCSU
+89,Mar Sleeva Medicity Palai,"Cherpunkal, Kezhuvankulam  PO ,Kottayam 686584",Kottayam,Private,BCSU
+90,Malabar Medical College Hospital,"Modakkallur, Atholi, Kozhikode, Kerala 673321",Kozhikode,Private,BCSU
+91,Metromed International Cardiac Centre,"Thondayad Bypass Road,  Palazhi, Kozhikode, Kerala 673014",Kozhikode,Private,BB
+92,Kozhikode District Co - Operative Hospital,"Mini Bypass Road, Eranhipaalam,  Kozhikode, Kerala 673006",Kozhikode,Co-operative,BCSU
+93,Baby Memorial Hospital,"Indira Gandhi Road, Arayidathupalam, Kozhikode, Kerala 673004",Kozhikode,Private,BCSU
+94,KMCT Hospital,"Manassery P.O, Mukkam, Kozhikode, Kerala 673602",Kozhikode,Private,BCSU
+95,National Hospital,"Mavoor Road, Near KSRTC Bus Stand, Kozhikode, Kerala 673001",Kozhikode,Private,BCSU
+96,Malabar Institute Of Medical Sciences,"Mini By-pass Road, Govindapuram,  Kozhikode, Kerala 673016",Kozhikode,Private,BCSU
+97,IQRAA Hospital,"Malaparamba,  Kozhikode, Kerala 673009",Kozhikode,Private,BCSU
+98,Nirmala Hospital,"Wayanad Road, Marikunnu, Vellimadukunnu, Kozhikode, Kerala 673012",Kozhikode,Private,BB
+99,St. Joseph's Hospital,"Agastianmoozhi,  Mukkam, Kozhikkode, Kerala 673602",Kozhikode,Private,BB
+100,PVS Hospital,"Railway Station Road, Kozhikode, Kerala 673002",Kozhikode,Private,BCSU
+101,Santhi Hospital,"Omaserry, Kozhikode, Kerala 673582",Kozhikode,Private,BB
+102,Badagara Sahakarana Asupathri Ltd.,"Narayana Nagar, Vadakara, Kozhikode Kerala 673101",Kozhikode,Co-operative,BCSU
+103,General Hospital (Beach),"Beach P.O., Kozhikode, Kerala 673032",Kozhikode,Government,BCSU
+104,Govt. W & C Hospital,"Kottapparamba,  Kozhikode, Kerala 673001",Kozhikode,Government,BCSU
+105,Medical College Hospital,"Kozhikode, Kerala 673008",Kozhikode,Government,BCSU
+106,District Hospital,"Vadakara, Kozhikode Kerala 673101",Kozhikode,Government,BB
+107,Meitra Hospital,"Mini Bypass Road, Edakkad, Kozhikode, Kerala 673005",Kozhikode,Private,BCSU
+108,MVR Cancer Centre & Research Institute,"Choolur, Vellasseri PO, Poolacode, Kozhikode, Kerala 673601",Kozhikode,Private,BCSU
+109,Edappal Hospital (P) Ltd,"Pattambi Road, Edappal, Malappuram, Kerala 679576",Malappuram,Private,BB
+110,Malabar Institute of Medical Sciences,"Changuvetty, Kottakkal P.O., Malappuram, Kerala 676503",Malappuram,Private,BCSU
+111,Almas Hospital,"Changuvetti, Kottakkal, Malappuram, Kerala 676503",Malappuram,Private,BCSU
+112,Korambayil Hospital,"East Road, Manjeri College P.O., Manjeri, Malappuram, Kerala 676122",Malappuram,Private,BCSU
+113,Al-Shifa Hospital Pvt Ltd.,"Ootty Road, Perinthalmanna,  Malappuram, Kerala 679322",Malappuram,Private,BCSU
+114,MES Medical College Hospital,"Malaparamba,  Palachode P.O., Perinthalmanna,Malappuram, Kerala
+679338",Malappuram,Private,BCSU
+115,Medical College Hospital,"Vellarangal, Manjeri, Malappuram, Kerala 676121",Malappuram,Government,BCSU
+116,Govt Hospital,"Shanti Nagar, Perinthalmanna,  Malappuram, Kerala 679322",Malappuram,Government,BCSU
+117,District Hospital,"Civil Station Road, Thrikandiyoor P.O, Tirur, Malappuram, Kerala 676104",Malappuram,Government,"Upgrading as
+BCSU"
+118,Karuna Medical College Hospital,"Vilayodi, Chittur, Palakkad, Kerala 678103",Palakkad,Private,BCSU
+119,Valluvanad Hospital,"Kanniyampuram  Post, Ottapalam, Palakkad, Kerala 679104",Palakkad,Private,BCSU
+120,Palakkad Blood Bank,"Soorya Enclave, Opposite Palat Hospital, Civil Station Road, Palakkad
+Kerala 678001",Palakkad,Private,BB
+121,The Palakkad District Co-operative Hospital,"Rajiv Gandhi Hospital Complex, Kallekkad, Kodunthirapully  P.O. Palakkad
+678004",Palakkad,Co-operative,BCSU
+122,District Hospital,"Sultanpet, Palakkad, Kerala 678001",Palakkad,Government,BCSU
+123,Ahalia Hospital,"Kanal Pirivu, Palakkad, Kerala 678557",Palakkad,Private,BCSU
+124,PK Das Institute of Medical Sciences,"Vaniamkulam, Ottapalam, Palakkad, Kerala 679522",Palakkad,Private,BCSU
+125,Kerala Medical College Hospital,"Mangode, Cherpulassery,  Palakkad, Kerala 679503",Palakkad,Private,BB
+126,Mother Care Hospital,"Vattambalam, Kumaramputhur  P.O, Mannarkkad, Palakkad, Kerala 678583",Palakkad,Private,BB
+127,"Taluk Head QuartersHospital,Mannarkad","Mannarkkad PO,Palakkad 678582",Palakkad,Government,BCSU
+128,Lifeline Super Speciality Hospital,"14th Mile, Melood P.O, Adoor, Pathanamthitta,  Kerala 691554",Pathanamthitta,Private,BCSU
+129,MGM Muthoot Medical Centre,"College Road , Kozhencherry,  Pathanamthitta,  Kerala 689641",Pathanamthitta,Private,BCSU
+130,Fellowship Mission Hospital,"Vellikkara, Kumbanad, Thiruvalla, Pathanamthitta,  Kerala 689547",Pathanamthitta,Private,BB
+131,Chithra Hospital,"Main Central Rd, Kadakkadu, Pandalam, Pathanamthitta,  Kerala 689501",Pathanamthitta,Private,BB
+132,Tiruvalla Medical Mission Hospital,"Tiruvalla, Pathanamthitta,  Kerala 689101",Pathanamthitta,Private,BCSU
+133,Pushpagiri Hospital,"Thiruvalla, Pathanamthitta,  Kerala 689101",Pathanamthitta,Private,BCSU
+134,Believers Church Medical College Hospital,"St.Thomas Nagar, Kuttapuzha P.O., Thiruvalla, Pathanamthitta,  Kerala
+689103",Pathanamthitta,Private,BCSU
+135,MGM Muthoot Medical Centre,"Ring Road, Pathanamthitta,  Kerala 689645",Pathanamthitta,Private,BB
+136,Poyanil Hospital,"Kozhencherry,  Pathanamthitta,  Kerala 689641",Pathanamthitta,Private,BCSU
+137,Mount Zion Medical College Hospital,"Ezhamkulam, Adoor, Pathanamthitta,  Kerala 691556",Pathanamthitta,Private,BCSU
+138,General Hospital,"Pathanamthitta,  Kerala 689645",Pathanamthitta,Government,BCSU
+139,Taluk Headquarters Hospital,"Thiruvalla, Pathanamthitta,  Kerala 689101",Pathanamthitta,Government,BB
+140,Holy Cross Hospital,"Kayamkulam - Pathanapuram  Road, Adoor, Pathanamthitta,  Kerala
+691523",Pathanamthitta,Private,BB
+141,St. Gregorios Medical Mission Hospital,"Parumala, Pathanamthitta,  Kerala 689626",Pathanamthitta,Private,BCSU
+142,Christian Mission Hospital,"SH 1, Pandalam, Pathananthitta,  Kerala 689501",Pathanamthitta,Private,BB
+143,Amala Institute of Medical Science,"Amala Nagar P.O., Thrissur, Kerala 680555",Thrissur,Private,BCSU
+144,St James Hospital,"Old Highway, Chalakudy, Thrissur, Kerala 680307",Thrissur,Private,BB
+145,St Josephs Hospital,"Choondal, Thrissur, Kerala 680502",Thrissur,Private,BB
+146,Mary Immaculate Mission Hospital,"Chanthappadi,  Polakkan, Engandiyoor, Thrissur, Kerala 680615",Thrissur,Private,BB
+147,Modern Hospital,"Kodungallur P.O., Thrissur, Kerala 680664",Thrissur,Private,BB
+148,Unity Hospital (P) Ltd,"Kanippayyur P.O., Kunnamkulam,  Thrissur, Kerala 680503",Thrissur,Private,BB
+149,Maria Theresa Hospital,"Kundai, Kuzhikkattussery, Mala, Thrissur, Kerala 680697",Thrissur,Private,BB
+150,Mother Hospital,"Pullazhi P.O., Olari, Thrissur, Kerala 680 012",Thrissur,Private,BB
+151,Sacred Heart Mission Hospital,"Pullur P.O., Irinjalakuda, Thrissur, Kerala 680 683",Thrissur,Private,BB
+152,West Fort Hitech Hospital,"Guruayoor Road, Punkunnam,Thrissur, Kerala 680002",Thrissur,Private,BB
+153,West Fort Hospital,"Westfort, Thrissur, Kerala 680 004",Thrissur,Private,BB
+154,Jubilee Mission Hospital,"Fathima Nagar, Nellikunnu, Thrissur, Kerala 680006",Thrissur,Private,BCSU
+155,Malankara Medical Mission Hospital,"Adupooty Hills, Kunnamkulam,  Thrissur, Kerala 680503",Thrissur,Private,BB
+156,General Hospital,"Thrissur, Kerala 680020",Thrissur,Government,BCSU
+157,IMA Blood Bank Complex & Research Centre,"Padukkad Road, Mannumkad, Ramavarmapuram P.O., Thrissur, Kerala
+680631",Thrissur,Private,BCSU
+158,Medical College Hospital,"Mulangunnathukavu, Thrissur, Kerala 680596",Thrissur,Government,BCSU
+159,"Aswini Hospital Limited, Thrissur","Karunakaran Nambiar Rd,aswani junction, Patturaikkal, opposite to Big
+Bazaar, Thrissur, Kerala 680020",Thrissur,Private,BB
+160,Dr.Somervel CSI Mission Hospital,"Karakonam P.O. Trivandrum, Kerala 695504",Trivandrum,Private,BCSU
+161,NIMS Hospital,"Aralumoodu, Neyyattinkara,  Trivandrum, Kerala 695123",Trivandrum,Private,BCSU
+162,PRS Hospital Private Limited,"Killipalam, Trivandrum, Kerala 695002",Trivandrum,Private,BCSU
+163,Ananthapuri Hospital and Research Institute,"NH Bypass, Chacka, Trivandrum, Kerala 695024",Trivandrum,Private,BCSU
+164,Kerala Institute of Medical Sciences,"Anayara P.O, Trivandrum, Kerala 695029",Trivandrum,Private,BCSU
+165,Sivagiri Sree Narayana Medical Mission Hospital,"Puthenchanda  P.O, Varkala, Trivandrum, Kerala 695145",Trivandrum,Private,BB
+166,Cosmopolitan Hospitals Pvt Ltd,"Pattom,  Trivandrum, Kerala 695004",Trivandrum,Private,BCSU
+167,Sree Uthradam Thirunal Hospital,"Pattom,  Trivandrum, Kerala 695004",Trivandrum,Private,BCSU
+168,Sree Gokulam Medical College and Research Foundation,"Aalamthara - Bhoothamadakki Road, Venjaramoodu,  Trivandrum, Kerala
+695607",Trivandrum,Private,BCSU
+169,SUT Academy of Medical Science,"Vencode P.O. , Vattappara, Trivandrum, Kerala 695028.",Trivandrum,Private,BB
+170,General Hospital,"Red Cross Rd., Thiruvanathapuram, Kerala 695035",Trivandrum,Government,BCSU
+171,Medical College Hospital,"Ulloor, Thiruvananthapuram, Kerala 695011",Trivandrum,Government,BCSU
+172,Regional Cancer Centre,"Medical College Campus, Ulloor, Thiruvananthapuram, Kerala 695011",Trivandrum,Government,BCSU
+173,Sree Chitra Thirunal Institute for Science & Technology,"Medical College Campus, Ulloor, Thiruvananthapuram, Kerala 695011",Trivandrum,Government,BCSU
+174,Taluk Headquarters Hospital,"Chirayinkeezhu,  Thiruvananthapuram, Kerala 695304",Trivandrum,Government,BB
+175,W & C Hospital,"CV Raman Pillai Road, Thycaud, Thiruvananthapuram, Kerala 695014",Trivandrum,Government,"Upgrading as
+BCSU"
+176,District Hospital,"Alummoodu, Neyyattinkara,  Thiruvananthapuram, Kerala 695121",Trivandrum,Government,BB
+177,Sri Ramakrishna Ashrama Charitable Hospital,"Sasthamangalam, Thiruvananthapuram, Kerala 695010",Trivandrum,Private,BCSU
+178,Leo Hospital,"Mandayapuram,  Kalpetta P.O., Wayanad, Kerala 673121",Wayanad,Private,BB
+179,D M Wayanad Institute of Medical Sciences,"Naseera Nagar, Meppadi P.O, Kalpetta, Wayanad, Kerala 673577",Wayanad,Private,BCSU
+180,District Hospital,"Thazhe Angadi, Mananthavady,  Wayanad, Kerala 670645",Wayanad,Government,BCSU
+181,Taluk Headquarters Hospital,"Police Station Road, Fairland Colony, Sulthan Bathery, Wayanad, Kerala
+673592",Wayanad,Government,"Upgrading as
+BCSU"
